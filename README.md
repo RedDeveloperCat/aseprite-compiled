@@ -14,6 +14,6 @@
 
 This Repo is mostly for my personal use, i'll upload compiled versions here whenever I need them on one of my other computers, ps go support aseprite on steam, they're well worth the price/value.
 
-- Head over to releases section to try aseprite yourself!
+- Head over to [releases](https://github.com/RedDeveloperCat/aseprite-compiled/releases) section to try aseprite yourself!
 
 
